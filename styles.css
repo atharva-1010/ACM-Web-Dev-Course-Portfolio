@@ -56,7 +56,7 @@ body{
 }
 
 #navigation:hover{
-    animation:nav_anim 3s;
+    animation:nav_anim 2.4s;
     animation-fill-mode: forwards;
 }
 
