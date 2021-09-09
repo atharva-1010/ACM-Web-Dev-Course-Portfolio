@@ -344,10 +344,14 @@ footer:hover{
     }
     
     .nav-links{
-        font-size: 2vw;
+        font-size: 1vw;
     }
 
     .list-item-inline{
         margin: 0;
+    }
+    
+    .nav-brand{
+        font-size: 1.5rem;
     }
 }
