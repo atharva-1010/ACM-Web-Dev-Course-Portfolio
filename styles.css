@@ -342,4 +342,8 @@ footer:hover{
     .card-heading{
         padding-bottom: 1rem;
     }
+    
+    .nav-links{
+        font-size: 2vw;
+    }
 }
