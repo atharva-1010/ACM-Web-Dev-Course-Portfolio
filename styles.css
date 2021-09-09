@@ -346,4 +346,8 @@ footer:hover{
     .nav-links{
         font-size: 2vw;
     }
+
+    .list-item-inline{
+        margin: 0;
+    }
 }
